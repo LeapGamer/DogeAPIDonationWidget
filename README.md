@@ -7,4 +7,4 @@ Accept Dogecoin donations and payments on your website by including a simple wid
 
 Go to http://dogeapi.com/widget_documentation for instructions on how to use the widget.
 
-If you would like to contribute please message me here on GitHyb or contact me at http://dogeapi.com/contact
+If you would like to contribute please message me here on GitHub or contact me at http://dogeapi.com/contact
